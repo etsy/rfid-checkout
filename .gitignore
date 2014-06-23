@@ -1,0 +1,5 @@
+*.pyc
+*.o
+*.pid
+*.swp
+hid_gpio_reader
