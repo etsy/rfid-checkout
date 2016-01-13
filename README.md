@@ -1,3 +1,8 @@
+RFID-Checkout Client is an Archived Project
+=============================
+
+RFID-Checkout Client is no longer actively maintained. Your mileage with patches may vary.
+
 RFID-Checkout Client
 ===================
 
